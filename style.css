@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    color: wheat;
+}
+h2{
+    
+    font-size: 55px;
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+body{
+    background: radial-gradient(rgba(63,94,251,1)0%, rgba(252,70,107,1)100%);
+    background: cover;
+    
+    
+}
+.b{
+    text-align: center;
+    text-decoration: none;
+    background-color: #000;
+    color: #FFF;
+    position: relative;
+    height: 75px;
+    margin-top: 5%;
+    clear: both;
+}
+table{
+    margin: auto;
+    margin-top: 25%;
+}
+table img{
+    border-radius: 20%;
+}
+table img:hover{
+    transform: scale(1.1);
+}
+.pogi{
+    height: 350px;
+    width: 350px;
+ 
+}
+.jude{
+    height: 350px;
+    width: 350px;
+}
+.fb{
+    height: 250px;
+    width: 250px;
+}
+.link{
+    height: 250px;
+    width: 250px;
+}
+.zodiac{
+    height: 350px;
+    width: 350px;
+    
+}
+.music{
+    height: 350px;
+    width: 350px;
+}
+.vest{
+    height: 350px;
+    width: 350px;
+}
+.morse{
+    height: 350px;
+    width: 350px;
+}
+h4{
+    font-size: 30px;
+    color: wheat;
+}
