@@ -1,0 +1,41 @@
+*{
+	margin:0;
+    padding:0;
+    color:blue;
+    text-align: center;
+}
+body{
+    background-image:url(zodiac.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	overflow-x: hidden;
+    position: relative;
+    padding: 50px;
+    
+}
+
+img.center{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom:2%;
+height:300px;
+width: 300px;
+}
+
+input, button, select{
+    background-color: white;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+    color: black;
+    display: block;
+    margin: auto;
+    margin: 30px auto;
+}
+h1{
+    color:black;
+}
+
+
