@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to bottom,#3a1c71,#d76d77,#ffaf7b);
+    text-align: center;
+}
+.title{
+    color: white;
+}
+@font-face{
+    src: url(../Font/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+.picture{
+    border-radius: 50%;
+    width: 400px;
+    height: 300px;
+}
+.describe{
+    letter-spacing: normal;
+    color: wheat;
+}
+.fullname{
+    word-spacing: normal;
+    font-family: Sacramento;
+}
+h2{
+    word-spacing: normal;
+}
+h6{
+    word-spacing: normal;
+}
+h8{
+    word-spacing: normal;
+}
+.pic1{
+    height: 300px;
+    width: 500px;
+
+}
+.picture2{
+    height: 100px;
+    width: 100px;
+}
