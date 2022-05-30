@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+	margin: auto;
+	text-align: center;
+    color: #FFF;
+    margin-top: -1%;
+}
+table a {
+	text-decoration: none;
+	color: gray;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.a{
+    position: relative;
+    top: 540px;
+    right: 450px;
+}
+.b{
+    position: relative;
+    top: 500px;
+}
+.c{
+    position: relative;
+    top: 460px;
+    left: 410px;
+}
+
+.d{
+    background-image: url(song.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	overflow-x: hidden;
+	position: relative;
+    height: 100vh;
+}
+.e{
+    background-image: url(song.jpg);
+    background-position: center;
+	background-size: cover;
+    overflow-x: hidden;
+	position: relative;
+    height: 100vh;
+}
+
+.f{
+    background-image: url(song.jpg);
+    background-position: center;
+	background-size: cover;
+    overflow-x: hidden;
+	position: relative;
+    height: 100vh;
+}
+.g{
+    background-image: url(song.jpg);
+    background-position: center;
+	background-size: cover;
+    overflow-x: hidden;
+	position: relative;
+    height: 100vh;
+    
+}
+.picture3{
+    height: 250px;
+    margin-top: 100px;
+    position: relative;
+}
+.picture2{
+    height: 250px;
+    width: 300px;
+    margin-left: 120px;
+    position: relative;
+    padding-top: 100px;
+}
+.picture4{
+    height: 250px;
+    width: 250px;
+    margin-left: 100px;
+    margin-top: 100px;
+    position: relative;
+}
